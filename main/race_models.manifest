@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 868132350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5edfec63f86bc599ee65c315ed4b20d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52b53b8e364b49f120c07a6657d27629
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97d7d97857dd2cb45b363ff4ca6e5b06, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/MainScenePrefabs/RaceModels.prefab
+Dependencies: []

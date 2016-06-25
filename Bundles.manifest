@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: main/armor_assets
+      Dependencies: {}
+    Info_1:
+      Name: main/icons
+      Dependencies: {}
+    Info_2:
+      Name: main/race_models
+      Dependencies: {}
+    Info_3:
+      Name: main/weapon_assets
+      Dependencies: {}
+    Info_4:
+      Name: character_creation/race_display_models
+      Dependencies: {}

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4042886100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53fa112daba40af520a130ad20c2dcff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ca4532753fe351d21f7df3d57bf6ce1f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb4d1a69be9a6ba4ca3770deda48a5b2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/MainScenePrefabs/ArmorModels.prefab
+Dependencies: []
